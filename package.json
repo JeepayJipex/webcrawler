@@ -2,7 +2,7 @@
   "name": "webcrawler",
   "version": "1.0.0",
   "main": "src/main.js",
-  "author": "Jean Mariette <jmariette@rampar.com>",
+  "author": "Jean Mariette <jean.mariette@biwyze.fr>",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js ./",
