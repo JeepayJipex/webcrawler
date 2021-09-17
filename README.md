@@ -9,7 +9,7 @@ Options:
   -V, --version                                      output the version number
   -d, --domain <domain>                              Website domain name to crawl
   -a, --directory <directory>                        Specify directory for data saving (default:
-                                                     "C:\\Users\\jmariette\\Desktop\\webcrawler")
+                                                     "executable path")
   -s, --save-data                                    Should save data (default: false)
   -c, --limit-for-connections <limitForConnections>  Max simultaneous connexions to use (default: "5")
   -l, --rate-limit <rateLimit>                       Rate limiting (in ms) (default: "0")
